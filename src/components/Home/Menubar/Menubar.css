@@ -1,0 +1,11 @@
+.menu{
+    display: flex;
+    padding: 20px;
+}
+
+.menu .menu_left{
+}
+
+.menu .menu_right{
+    margin-left: auto;
+}

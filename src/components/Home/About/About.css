@@ -1,0 +1,9 @@
+.about{
+    background-color: aquamarine;
+    width: 100%;
+    height: 70px;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
